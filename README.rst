@@ -4,10 +4,11 @@ README
 
 About
 -----
-This is an application to view ipython notebook on Aakash tablet. This app
-is based on ``installer`` repository, on aakash tablet this will come preinstalled.
+This is an application to view ipython notebook on Aakash tablet/Android ICS. This app
+is based on `installer <https://github.com/androportal/installer/tree/ics>`_ repository,
+on aakash tablet this will come preinstalled.
 
-The apk when build, will show the ipython dashboard on localhost, when a notebook 
+The apk when installed will show the ipython dashboard on localhost, when a notebook 
 is selected it will redirect user to external web browser(firefox & chrome only).
 
 How to use
